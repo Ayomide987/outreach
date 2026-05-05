@@ -1,0 +1,2 @@
+# No external Python dependencies — the backend uses only the standard library.
+# The Anthropic API is called directly via urllib.request.
