@@ -21,9 +21,8 @@ build/
 venv/
 env/
 
-# Node / frontend build
+# Node
 frontend/node_modules/
-frontend/dist/
 
 # OS
 .DS_Store
